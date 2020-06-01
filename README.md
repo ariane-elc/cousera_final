@@ -17,7 +17,7 @@ also, we need to remove variable of no interest such as the one with near zero v
 
 
 
-# 1 Let's test the first model : the decision tree. We are, wit this model, looking for the variables that predicts the best the class for each data
+# 1 Let's test the first model : the decision tree. We are, with this model, looking for the variables that predicts the best the class for each data
 
 
 to assess each variable randomForest function returns a certains number of informationconfusion matrix : were the ligns are the observed data of the algorithm and on the column the predicted data. In our example, there are no people misclassified by the algorithm we can plot to see the result and order the variable in order of importance
